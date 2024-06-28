@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _printf - formatted output conversion and print data
@@ -50,4 +51,12 @@ int _printf(const char *format, ...)
 	}
 	print_buf(buffer, ibuf), free(buffer), va_end(arguments);
 	return (len);
+}
+
+int main()
+{
+	int age = 0;
+	char name = "Deshon";
+	_printf("Hello %s, my age is %d", name, age);
+	return (0);
 }
