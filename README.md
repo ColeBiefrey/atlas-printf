@@ -1,1 +1,1 @@
-##To be filled
+This function will replicate the printf function standard
