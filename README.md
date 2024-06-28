@@ -1,1 +1,0 @@
-This function will replicate the printf function standard
