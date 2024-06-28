@@ -99,3 +99,18 @@ int print_str(va_list arguments, char *buf, unsigned int ibuf)
 		ibuf = handl_buf(buf, str[i], ibuf);
 	return (i);
 }
+
+/**
+ * print_prg - writes the character to stdout
+ * @a: input char
+ * @buf: buffer pointer
+ * @i: index for buffer pointer
+ * Return: On success 1
+ */
+
+int print_prg(va_list a __attribute__((unused)), char *buf, unsigned int i)
+{
+    handl_buf(buf, '%', i);
+
+    return (1);
+}

@@ -56,7 +56,7 @@ int _printf(const char *format, ...)
 int main()
 {
 	int age = 0;
-	char name = "Deshon";
+	char *name = "Deshon";
 	_printf("Hello %s, my age is %d", name, age);
 	return (0);
 }
