@@ -1,38 +1,26 @@
-#include "main.h"
+#include "print.h"
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 
-/**
- * get_print_func - selects correct func to perform operation
- * @s: argument indentifier
- * @index: index for argument indentifier
- * Return: pointer to function
- */
-
-int (*get_print_func(const char  *s, int index))(va_list, char*, unsigned int)
-
+int (*get_print_func(char *s))(va_list)
 {
-	print_t pr[] = {
-		{"c", print_chr}, {"s", print_str},
-		{"i", print_int}, {"d", print_int},
-		{" %", print_prg}, {NULL, NULL},
-	};
-	int i = 0, j = 0, first_index;
+    int i;
+    print_t print[] = {
+        {"s", print_str},
+        {"c", print_chr},
+        {"i", print_int},
+        {"d", print_int},
+        {"%", print_prg},
+        {NULL, NULL},
+    };
 
-	first_index = index;
-	while (pr[i].type_arg)	
-	{
-		if (s[index] == pr[i].type_arg[j])
-		{
-			if (pr[i].type_arg[j + 1] != '\0')
-				index++, j++;
-			else
-				break;
-		}
-		else
-		{
-			j = 0;
-			i++;
-			index = first_index;
-		}
-	}
-	return (pr[i].f);
+    for (i = 0; print[i].t; i++)
+    {
+        if (*s == *(print[i].t))
+        {
+            return (print[i].f);
+        }
+    }
+    return (NULL);
 }
