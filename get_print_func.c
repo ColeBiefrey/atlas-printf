@@ -20,7 +20,7 @@ int (*get_print_func(const char  *s, int index))(va_list, char*, unsigned int)
 	int i = 0, j = 0, first_index;
 
 	first_index = index;
-	while (pr[i].type_arg)	
+	while (pr[i].type_arg)
 	{
 		if (s[index] == pr[i].type_arg[j])
 		{
