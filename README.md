@@ -1,1 +1,1 @@
-This is a printf function rewritten
+This function will replicate the printf function standard (Main_Files)
