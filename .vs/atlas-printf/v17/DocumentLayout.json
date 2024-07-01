@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\print_prg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:print_prg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\print_functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:print_functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\ev_print_func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ev_print_func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:get_print_func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\print_functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:print_functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\print_prg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:print_prg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "main.h",
               "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\main.h",
               "RelativeDocumentMoniker": "main.h",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "print_prg.c",
               "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\print_prg.c",
               "RelativeDocumentMoniker": "print_prg.c",
@@ -101,6 +101,45 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-01T17:14:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ev_print_func.c",
+              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\ev_print_func.c",
+              "RelativeDocumentMoniker": "ev_print_func.c",
+              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\ev_print_func.c",
+              "RelativeToolTip": "ev_print_func.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T17:23:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "get_print_func.c",
+              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\get_print_func.c",
+              "RelativeDocumentMoniker": "get_print_func.c",
+              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\get_print_func.c",
+              "RelativeToolTip": "get_print_func.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T17:22:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_printf.c",
+              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c",
+              "RelativeDocumentMoniker": "_printf.c",
+              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c",
+              "RelativeToolTip": "_printf.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T17:19:03.166Z",
               "EditorCaption": ""
             },
             {
@@ -114,45 +153,6 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-01T17:16:34.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ev_print_func.c",
-              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\ev_print_func.c",
-              "RelativeDocumentMoniker": "ev_print_func.c",
-              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\ev_print_func.c",
-              "RelativeToolTip": "ev_print_func.c",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-01T17:23:00.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "get_print_func.c",
-              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\get_print_func.c",
-              "RelativeDocumentMoniker": "get_print_func.c",
-              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\get_print_func.c",
-              "RelativeToolTip": "get_print_func.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-01T17:22:55.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_printf.c",
-              "DocumentMoniker": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c",
-              "RelativeDocumentMoniker": "_printf.c",
-              "ToolTip": "C:\\Users\\water\\source\\repos\\ColeBiefrey\\atlas-printf\\_printf.c",
-              "RelativeToolTip": "_printf.c",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-01T17:19:03.166Z",
               "EditorCaption": ""
             },
             {
