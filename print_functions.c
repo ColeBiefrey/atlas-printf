@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <unistd.h>
 
 /**
  * print_chr - write character c to stdout
@@ -100,22 +101,7 @@ int print_str(va_list arguments, char *buf, unsigned int ibuf)
 	return (i);
 }
 
-/**
- * handl_buf - concatenates buffer chars
- * @buf: buffer pointer
- * @c: charcter to concatenate
- * @ibuf: index of buffer pointer
- * Return: index of buffer pointer
- */
-
-unsigned int handl_buf(char *buf, char c, unsigned int ibuf)
+int _putchar(char c)
 {
-	if (ibuf == 1024)
-	{
-		print_buf(buf, ibuf);
-		ibuf = 0;
-	}
-	buf[ibuf] = c;
-	ibuf++;
-	return (ibuf);
+    return write(1, &c, 1);
 }
