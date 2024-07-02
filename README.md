@@ -22,9 +22,6 @@ The format for the tags is:
 On a successful run, it will give a Return Value of the chars printed.
 
 
-Examples:
-
-
 
 -----
 
@@ -52,36 +49,11 @@ This will return the amount of identifiers.
 
 -----
 
+### print_functions.c
 
-### print_buf.
+This holds all the base functions for converting specific ints.
 
-This will print out the buffer.
-
------
-
-### handl_buf.c
-
-This will concatenate the characters from the buffer.
-
------
-
-### print_chr.c
-
-This will write char C to stdout.
-
------
-
-### print_str.c
-
-This will write string to stdout.
-
------
-
-### print_int.c
-
-This will print an int.
-
------
+-----_
 
 ### print_prg.c
 

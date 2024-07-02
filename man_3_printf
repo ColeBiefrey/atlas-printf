@@ -1,0 +1,24 @@
+_PRINTF
+
+NAME
+    _printf - format and print data
+    
+SYNOPSIS
+    _printf FORMAT [ARGUMENT]...
+
+DESCRIPTIION
+    Print ARGUMENT(s) according to FORMAT
+
+    FORMAT controls the output as in C printf. Interpreted sequences are:
+
+    %s: defined string
+
+    %c: string
+
+    %%: prints one percent sign
+
+    %d: prints a defined integer
+
+    %i: prints a defined integer
+
+    
